@@ -1,5 +1,12 @@
+# En desarrollo, FALTA TERMINAR
+
 # Animación Japonesa
 ## Final drilling m06
+
+### Endpoints:
+
++ /api/v1/animes
++ /api/v1/animes/:id
 
 ### Dependencias utilizadas (paquetes):
 

@@ -7,7 +7,9 @@ const router = Router();
     res.send("lista de todos los animes");
 });
  */
-router.get("/", findAll);
-router.get("/:id", findByPk);
+router.get("/", findAll); //listar todos los animes
+router.get("/:id", findByPk); //filtra anime por ID
+
+// TODO: route eliminar anime por id
 
 export default router;
